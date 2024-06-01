@@ -20,15 +20,16 @@ This is a Flask web application that calculates and visualizes the Collatz seque
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/collatz-conjecture-calculator.git
+   git clone https://github.com/nskath/collatz.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd collatz-conjecture-calculator
+   cd collatz
    ```
 3. Install the required dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install matplotlib
+   pip install -U Flask
    ```
 
 ## Usage
